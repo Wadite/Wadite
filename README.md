@@ -3,5 +3,5 @@
   I love being able to help others as well as solving problems through computational methods. Takes extreme joy in creating new systems,
   as wekk as maximizing the optimization of existing, data related ones.
 - 🌱 I’m currently learning and improving on Java through university courses, and MySQL independently.
-- 💞️ Looking to collaborate on Healthcare and/or Data Structures optimization projects.
+- 💞️ Looking to collaborate on Healthcare and/or biological data driven projects.
 - 📫 Reach me through mail at: roeekish@gmail.com
