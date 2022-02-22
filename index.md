@@ -1,3 +1,5 @@
+Hey, just a site check. Nothing to see here =]
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Wadite/Wadite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
